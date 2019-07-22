@@ -1,0 +1,3 @@
+C:\Users\Rabbani\source\repos\dockerWebApp\dockerWebApp\obj\Debug\netcoreapp2.1\dockerWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Rabbani\source\repos\dockerWebApp\dockerWebApp\obj\Debug\netcoreapp2.1\dockerWebApp.AssemblyInfoInputs.cache
+C:\Users\Rabbani\source\repos\dockerWebApp\dockerWebApp\obj\Debug\netcoreapp2.1\dockerWebApp.AssemblyInfo.cs
